@@ -1,0 +1,34 @@
+{
+  "name": "lolchampions",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@firebase/firestore-types": "^0.8.0",
+    "firebase": "^5.7.1",
+    "lol-items": "^7.8.1",
+    "vue": "^2.5.17",
+    "vue-router": "^3.0.1",
+    "vuetify": "^1.3.0",
+    "vuex": "^3.0.1",
+    "xml-js": "^1.6.11"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.6.3",
+    "@vue/cli-plugin-babel": "^3.2.0",
+    "@vue/cli-plugin-eslint": "^3.2.0",
+    "@vue/cli-service": "^3.5.3",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.8.0",
+    "eslint-plugin-vue": "^5.0.0-0",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.1",
+    "vue-cli-plugin-vuetify": "^0.4.6",
+    "vue-template-compiler": "^2.5.17",
+    "vuetify-loader": "^1.0.5"
+  }
+}
